@@ -1,7 +1,7 @@
 # Ashwini Lalitha Huchahanumegowda
 
 [![Portfolio Badge](https://img.shields.io/badge/-Click_to_View_Portfolio-orange?&logoColor=white&link=https://ashwinilh.github.io/portfolio/)](https://ashwinilh.github.io/portfolio/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Ashwini_LH-blue?&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ashwinilh12)](https://www.linkedin.com/in/gaurikhandke/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ashwini_LH-blue?&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ashwinilh12)](https://www.linkedin.com/in/ashwinilh/) 
 [![Gmail Badge](https://img.shields.io/badge/-ashwini.lh12@gmail.com-c14438?&logo=Gmail&logoColor=white&link=mailto:ashwini.lh12@gmail.com)](mailto:ashwini.lh12@gmail.com)
 ![visitors](https://komarev.com/ghpvc/?username=ashwinilh&color=brightgreen)
 <!-- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%GauriKhandke%2Fhit-counter) -->
